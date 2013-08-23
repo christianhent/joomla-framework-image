@@ -14,7 +14,6 @@ use InvalidArgumentException;
 /**
  * Image Filter class to colorize an image.
  *
- * @since  1.0
  */
 class Colorize extends ImageFilter
 {
