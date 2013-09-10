@@ -456,6 +456,19 @@ class Image implements LoggerAwareInterface
 
 		return imagesx($this->handle);
 	}
+	
+	/**
+	 * Method to return the handle
+	 *
+	 * @return	handle
+	 *
+	 */
+	
+	
+	public function getHandle()
+	{
+		return $this->handle;
+	}
 
 	/**
 	 * Method to return the path
