@@ -24,9 +24,11 @@ class Colorize extends ImageFilter
 	protected $colors = array(
 		'CORDOVAN' => '893F45',
 		'COFFEE' => '6F4E37',
-		'MAHAGONY' => 'A52A2A',
+		'MAHAGONY' => '9D3C27',
+		'OLIVE' => '556B2F',
 		'SEPIA' => '704214',
-		'SINOPIA' => 'CB410B'
+		'SINOPIA' => 'CB410B',
+		'YALE' => '0F4D92',
 	);
 		
 	/**
